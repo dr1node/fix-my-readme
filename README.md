@@ -1,18 +1,18 @@
-# Fix My Readme
+# Fix My README
 
-Welcome to fix my readme project!
+Welcome to the Fix My README project!
 
-This project help people learn github contribution.
+This project helps people learn how to contribute to GitHub projects.
 
-## How to contribute
-1. Fork this repository
-2. Edit the readme file
-3. Submit a pull request
+## How to Contribute
+1. Fork this repository.
+2. Edit the README file.
+3. Submit a pull request.
 
 ## Project Goals
-- Learn pull request
+- Learn how pull requests work
 - Practice documentation
-- Improve writting and formatting
+- Improve writing and formatting
 
 ## Contact
-If you have question, open an issue.
+If you have a question, open an issue.
